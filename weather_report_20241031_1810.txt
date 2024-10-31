@@ -1,0 +1,45 @@
+Weather Analysis Report
+======================
+
+Report generated at: 2024-10-31 18:10:36
+
+Temperature Summary:
+Highest temperature: 82.17Â°F in Tampa,FL,US
+Lowest temperature: 78.4Â°F in Jacksonville,FL,US
+Average temperature across cities: 79.9Â°F
+
+Wind Conditions:
+Highest wind speed: 14.97 mph in Jacksonville,FL,US
+Average wind speed: 12.7 mph
+
+City-by-City Breakdown:
+
+Gainesville,FL,US:
+  Temperature: 79.56Â°F (Feels like: 79.56Â°F)
+  Humidity: 56%
+  Wind Speed: 10.36 mph
+  Conditions: clear sky
+
+Miami,FL,US:
+  Temperature: 80.29Â°F (Feels like: 83.7Â°F)
+  Humidity: 72%
+  Wind Speed: 11.5 mph
+  Conditions: broken clouds
+
+Orlando,FL,US:
+  Temperature: 79.3Â°F (Feels like: 79.3Â°F)
+  Humidity: 67%
+  Wind Speed: 12.66 mph
+  Conditions: clear sky
+
+Tampa,FL,US:
+  Temperature: 82.17Â°F (Feels like: 83.26Â°F)
+  Humidity: 52%
+  Wind Speed: 13.8 mph
+  Conditions: few clouds
+
+Jacksonville,FL,US:
+  Temperature: 78.4Â°F (Feels like: 79.2Â°F)
+  Humidity: 69%
+  Wind Speed: 14.97 mph
+  Conditions: scattered clouds
