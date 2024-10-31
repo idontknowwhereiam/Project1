@@ -1,0 +1,6 @@
+city,temperature,feels_like,humidity,wind_speed,description,timestamp
+"Gainesville,FL,US",78.51,78.78,58,10.36,clear sky,2024-10-31 18:28
+"Miami,FL,US",79.86,79.86,73,11.5,broken clouds,2024-10-31 18:28
+"Orlando,FL,US",78.73,78.73,73,12.66,few clouds,2024-10-31 18:28
+"Tampa,FL,US",80.89,82.24,55,8.05,clear sky,2024-10-31 18:28
+"Jacksonville,FL,US",77.65,78.49,72,14.97,scattered clouds,2024-10-31 18:28
