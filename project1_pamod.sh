@@ -12,7 +12,7 @@ from statistics import mean
 
 
 
-API_KEY = "LOGIN AND CREATE YOUR OWN KEY AND PASTE HERE"
+API_KEY = "2c48110caf5b63264d7d21762f91a071"
 
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
